@@ -1,3 +1,4 @@
+download：https://spacedock.info/mod/4827/Wenchang_Satellite_Launch_Center
 Wenchang Satellite Launch Center
 
 A replica of the Wenchang Satellite Launch Center (Wenchang Spacecraft
@@ -98,6 +99,7 @@ See LICENSE.txt.
 KERWIS Produced
 Fixed by: Li Jingting
 
+下载链接：https://spacedock.info/mod/4827/Wenchang_Satellite_Launch_Center
 ========================================
 文昌卫星发射中心
 ========================================
