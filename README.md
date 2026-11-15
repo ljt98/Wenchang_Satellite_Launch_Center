@@ -87,6 +87,7 @@ INTERACTIONS
 - Click the launch tower to open/close it.
 - Click the transport platform to open/close it.
 - Click the ground to switch the lights on/off.
+
 Note: It is recommended to wait for an animation to finish before triggering the next action (including reverting to the VAB after launch). If the animation freezes, click once or twice more to restore it.
 ----------------------------------------
 LICENSE
@@ -183,6 +184,7 @@ Fixed by: Li Jingting
 - 点击发射塔架：开/合塔架
 - 点击活动转运平台：展开/收起平台
 - 点击地面灯光：开关照明
+
 注意：建议动画完成后再执行下一个动作（包括回退发射时，回退组装大楼）。如果出现动画卡住了，再点击一两次即可恢复。
 ----------------------------------------
 许可协议
