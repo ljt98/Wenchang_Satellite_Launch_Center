@@ -1,6 +1,4 @@
-========================================
 Wenchang Satellite Launch Center
-========================================
 
 A replica of the Wenchang Satellite Launch Center (Wenchang Spacecraft
 Launch Site), Hainan, China, for Kerbal Space Program.
